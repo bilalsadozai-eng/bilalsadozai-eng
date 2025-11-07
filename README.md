@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Bilal Khan  
 
-<!--
-**bilalsadozai-eng/bilalsadozai-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering Student** and **Web Developer** passionate about creating efficient and creative digital solutions.  
+I love turning ideas into functional, user-friendly software while constantly learning and improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- C++ | Python | JavaScript  
+- HTML | CSS | Vedio editing| AI  
+
+---
+
+## 🌱 Currently Learning  
+- Software Engineering Principles  
+- Artificial Intelligence  
+- Backend Development  
+
+---
+
+## 📫 Connect with Me  
+[💼 LinkedIn](https://www.linkedin.com/in/m-bilal-waheed-39a474391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+---
+
+⭐ *"Keep learning, keep building — the best code is yet to come!"*
