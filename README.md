@@ -54,9 +54,9 @@ I love turning ideas into functional, user-friendly software while constantly le
 ## 💡 Projects Showcase
 
 ### 🎯 Featured Projects
-- **[Project 1]** - Brief description  
-- **[Project 2]** - Brief description  
-- **[Project 3]** - Brief description  
+- **[Project 1]** - Coming soon
+- **[Project 2]** - Coming soon.    InshaAllah 
+- **[Project 3]** - Coming soon 
 
 ---
 
