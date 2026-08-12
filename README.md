@@ -96,7 +96,7 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 🤖 Sentiment Analysis NLP
 
-NLP-based sentiment analysis application using Python, Hugging Face and Gradio, designed to analyze text sentiment through an interactive interface.
+NLP-based sentiment analysis application using Python, Hugging Face, and Gradio, designed to analyze text sentiment through an interactive interface.
 
 ✋ Hand Controlled Particle System
 
@@ -108,11 +108,11 @@ An AI-based project concept designed to help users understand plant conditions a
 
 📰 AI Fake News Detector
 
-An AI/ML project concept focused on detecting potentially misleading or fake news using natural language processing and machine learning techniques.
+An AI/ML project concept focused on detecting potentially misleading or fake news using Natural Language Processing and Machine Learning techniques.
 
 🚇 Rawalpindi–Islamabad Metro 3D
 
-Interactive 3D web visualization project developed using Vite, JavaScript and Three.js.
+Interactive 3D web visualization project developed using Vite, JavaScript, and Three.js.
 
 ---
 
@@ -123,9 +123,9 @@ Interactive 3D web visualization project developed using Vite, JavaScript and Th
 - Machine Learning
 - Deep Learning
 - Mathematics for Machine Learning
-- NLP
+- Natural Language Processing
 - Generative AI
-- LLMs
+- Large Language Models (LLMs)
 - AI Agents
 - AI Application Development
 
@@ -156,7 +156,7 @@ Currently building my foundation across:
 
 Programming → Software Engineering → Mathematics → Machine Learning → Deep Learning → AI Engineering → MLOps
 
-My long-term goal is to build reliable, scalable and useful AI systems rather than only training models.
+My long-term goal is to build reliable, scalable, and useful AI systems, rather than only training models.
 
 ---
 
@@ -167,7 +167,7 @@ My long-term goal is to build reliable, scalable and useful AI systems rather th
 - Aspire Leadership Program
 - AI & Technology Learner
 - Hackathon Participant
-- CS/Tech Community Activities
+- CS & Technology Community Activities
 - Open to AI/ML, Software Engineering & Internship Opportunities
 
 ---
@@ -177,7 +177,7 @@ My long-term goal is to build reliable, scalable and useful AI systems rather th
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalsadozai-eng&show_icons=true&theme=radical" alt="Bilal's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsadozai-eng&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsadozai-eng&theme=radical" alt="Bilal's GitHub Streak" />
 </p>---
 
 📈 Profile Activity
