@@ -1,77 +1,207 @@
-# 👋 السلام علیکم, I'm Bilal Khan
+👋 السلام علیکم, I'm Bilal Khan
 
-**Software Engineering Student | Web Developer | AI Enthusiast**  
+Software Engineering Student @ IIUI | AI/ML Enthusiast | Software Developer
 
-I'm passionate about creating efficient and creative digital solutions.  
-I love turning ideas into functional, user-friendly software while constantly learning and improving my skills.
+I'm an undergraduate Software Engineering student at the International Islamic University Islamabad (IIUI) with a growing focus on Artificial Intelligence, Machine Learning, NLP, and AI Engineering.
 
----
+I enjoy turning ideas into practical software and AI-powered applications while continuously improving my programming, problem-solving, and engineering skills.
 
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎬 Creative Skills
-![Video Editing](https://img.shields.io/badge/Video_Editing-FF0000?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+🎯 Career Goal: AI Engineer → ML/AI Systems & MLOps
 
 ---
 
-## 🌱 Currently Learning
+🧠 AI & Machine Learning
 
-- **Software Engineering Principles** 🏗️
-- **Artificial Intelligence & Machine Learning** 🤖  
-- **Backend Development** ⚙️
-- **Database Management** 🗄️
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
+"NLP" (https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=googletranslate&logoColor=white)
+"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+"Gradio" (https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+
+- Artificial Intelligence
+- Machine Learning Fundamentals
+- Natural Language Processing (NLP)
+- Sentiment Analysis
+- AI Application Development
+- Hugging Face Models & Spaces
+- Gradio AI Interfaces
+- Prompt Engineering
+- Generative AI
+- AI-assisted Development
 
 ---
 
-## 📊 GitHub Stats
+🧑‍💻 Programming
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- Python
+- C++
+- JavaScript
+- Object-Oriented Programming
+- Problem Solving
+- Data Structures & Algorithms — Learning
+
+---
+
+🌐 Web Development
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+"Three.js" (https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+- HTML5
+- CSS3
+- JavaScript
+- Vite
+- Three.js
+- Interactive Web Experiences
+- Frontend Development
+
+---
+
+👁️ AI + Computer Vision
+
+"MediaPipe" (https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+"Three.js" (https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+- MediaPipe
+- Hand Tracking
+- Real-time Interaction
+- Computer Vision Fundamentals
+- AI-powered Interactive Applications
+
+---
+
+🔧 Tools & Technologies
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+- Git & GitHub
+- VS Code
+- PowerShell / Terminal
+- GitHub Repositories & Version Control
+- AI Development Tools
+
+---
+
+🚀 Featured Projects
+
+🤖 Sentiment Analysis NLP
+
+NLP-based sentiment analysis application using Python, Hugging Face and Gradio, designed to analyze text sentiment through an interactive interface.
+
+✋ Hand Controlled Particle System
+
+Interactive real-time particle visualization built using Three.js + MediaPipe, allowing users to control particles through hand movements.
+
+🌿 AI Virtual Plant Care Assistant
+
+An AI-based project concept designed to help users understand plant conditions and receive intelligent plant-care recommendations.
+
+📰 AI Fake News Detector
+
+An AI/ML project concept focused on detecting potentially misleading or fake news using natural language processing and machine learning techniques.
+
+🚇 Rawalpindi–Islamabad Metro 3D
+
+Interactive 3D web visualization project developed using Vite, JavaScript and Three.js.
+
+---
+
+🌱 Currently Learning
+
+🤖 AI Engineering
+
+- Machine Learning
+- Deep Learning
+- Mathematics for Machine Learning
+- NLP
+- Generative AI
+- LLMs
+- AI Agents
+- AI Application Development
+
+⚙️ Software Engineering
+
+- Data Structures & Algorithms
+- Backend Development
+- Databases
+- Software Architecture
+- APIs
+
+☁️ Future Focus
+
+- MLOps
+- Docker
+- Cloud Computing
+- Model Deployment
+- AI Infrastructure
+- Production AI Systems
+
+---
+
+📚 Learning Journey
+
+🎓 BS Software Engineering — IIUI
+
+Currently building my foundation across:
+
+Programming → Software Engineering → Mathematics → Machine Learning → Deep Learning → AI Engineering → MLOps
+
+My long-term goal is to build reliable, scalable and useful AI systems rather than only training models.
+
+---
+
+🏆 Experience & Activities
+
+- Software Engineering Undergraduate
+- AI/ML Project Developer
+- Aspire Leadership Program
+- AI & Technology Learner
+- Hackathon Participant
+- CS/Tech Community Activities
+- Open to AI/ML, Software Engineering & Internship Opportunities
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalsadozai-eng&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalsadozai-eng&show_icons=true&theme=radical" alt="Bilal's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsadozai-eng&theme=radical" alt="GitHub Streak" />
-</p>
+</p>---
+
+📈 Profile Activity
+
+"Profile Views" (https://komarev.com/ghpvc/?username=bilalsadozai-eng&color=blueviolet)
 
 ---
 
-## 📫 Connect With Me
+🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bilal-waheed-39a474391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalsadozai-eng)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalsuduzaii@gmail.com)
-
----
-
-## 💡 Projects Showcase
-
-### 🎯 Featured Projects
-- **[Project 1]** - Coming soon
-- **[Project 2]** - Coming soon.    InshaAllah 
-- **[Project 3]** - Coming soon 
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/m-bilal-waheed-39a474391/)
+""GitHub" (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/bilalsadozai-eng)
+""Gmail" (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:bilalsuduzaii@gmail.com)
 
 ---
 
-## 📈 Coding Activity
+💡 My Philosophy
 
-![Profile Views](https://komarev.com/ghpvc/?username=bilalsadozai-eng&color=blueviolet)
+«Learn → Build → Break → Improve → Repeat.»
 
----
-
-## ✨ Quote to Code By
-
-> **"Keep learning, keep building — the best code is yet to come!"** 💫
+I believe the best way to learn technology is to build real projects, solve real problems, and continuously improve.
 
 ---
 
 <p align="center">
-  <i>⚡ Code with passion, build with purpose!</i>
+  <b>⚡ Building today for the AI systems of tomorrow.</b>
 </p>
