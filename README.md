@@ -12,13 +12,13 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 🧠 AI & Machine Learning
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
-"NLP" (https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=googletranslate&logoColor=white)
-"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-"Gradio" (https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-
-- Artificial Intelligence
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=googletranslate&logoColor=white" alt="NLP">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio">
+</p>- Artificial Intelligence
 - Machine Learning Fundamentals
 - Natural Language Processing (NLP)
 - Sentiment Analysis
@@ -33,11 +33,11 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 🧑‍💻 Programming
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- Python
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>- Python
 - C++
 - JavaScript
 - Object-Oriented Programming
@@ -48,13 +48,13 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 🌐 Web Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-"Three.js" (https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-- HTML5
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+</p>- HTML5
 - CSS3
 - JavaScript
 - Vite
@@ -66,10 +66,10 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 👁️ AI + Computer Vision
 
-"MediaPipe" (https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-"Three.js" (https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-- MediaPipe
+<p>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+</p>- MediaPipe
 - Hand Tracking
 - Real-time Interaction
 - Computer Vision Fundamentals
@@ -79,12 +79,12 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 
 🔧 Tools & Technologies
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-- Git & GitHub
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</p>- Git & GitHub
 - VS Code
 - PowerShell / Terminal
 - GitHub Repositories & Version Control
@@ -175,24 +175,28 @@ My long-term goal is to build reliable, scalable, and useful AI systems, rather 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalsadozai-eng&show_icons=true&theme=radical" alt="Bilal's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsadozai-eng&theme=radical" alt="Bilal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalsadozai-eng&show_icons=true&theme=radical" alt="Bilal's GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsadozai-eng&theme=radical" alt="Bilal's GitHub Streak">
 </p>---
 
 📈 Profile Activity
 
-"Profile Views" (https://komarev.com/ghpvc/?username=bilalsadozai-eng&color=blueviolet)
-
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=bilalsadozai-eng&color=blueviolet" alt="Profile Views">
+</p>---
 
 🤝 Let's Connect
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/m-bilal-waheed-39a474391/)
-""GitHub" (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/bilalsadozai-eng)
-""Gmail" (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:bilalsuduzaii@gmail.com)
-
----
+<p>
+<a href="https://www.linkedin.com/in/m-bilal-waheed-39a474391/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a><a href="https://github.com/bilalsadozai-eng">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a><a href="mailto:bilalsuduzaii@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</p>---
 
 💡 My Philosophy
 
