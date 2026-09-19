@@ -93,7 +93,9 @@ I enjoy turning ideas into practical software and AI-powered applications while 
 ---
 
 🚀 Featured Projects
+
 🔍 AI Steel Defect Detector
+
 Real-time surface defect detection system engineered using Computer Vision and Deep Learning (YOLOv8/CNNs) to automate industrial quality control and enhance manufacturing precision.
 
 🤖 Sentiment Analysis NLP
